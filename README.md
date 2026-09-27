@@ -305,39 +305,101 @@ I don't just want to write code.
 
 <table>
 <tr>
-<td align="center" width="250">
 
-### ⚛️ React
+<td align="center" width="220">
 
-Deepening my understanding of components, hooks, state management, and reusable UI patterns.
+### 🌐 HTML
 
-</td>
-
-<td align="center" width="250">
-
-### ▲ Next.js
-
-Exploring modern routing, rendering, layouts, and building better web applications.
+Strengthening semantic HTML, accessibility, and clean page structure.
 
 </td>
 
-<td align="center" width="250">
+<td align="center" width="220">
+
+### 🎨 CSS
+
+Improving responsive layouts, Flexbox, Grid, and modern UI styling.
+
+</td>
+
+<td align="center" width="220">
+
+### 🟨 JavaScript
+
+Building stronger fundamentals, ES6+, logic, DOM, and asynchronous JavaScript.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="220">
 
 ### 🔷 TypeScript
 
-Improving type safety, code structure, and writing more maintainable applications.
+Learning type safety, interfaces, generics, and maintainable code patterns.
 
 </td>
+
+<td align="center" width="220">
+
+### ⚛️ React
+
+Improving components, props, hooks, state management, and reusable UI.
+
+</td>
+
+<td align="center" width="220">
+
+### ▲ Next.js
+
+Exploring routing, layouts, rendering, and modern full-stack web development.
+
+</td>
+
 </tr>
+
+<tr>
+
+<td align="center" width="220">
+
+### 🧠 Problem Solving
+
+Developing stronger programming logic and learning to approach problems systematically.
+
+</td>
+
+<td align="center" width="220">
+
+### 📱 Responsive Design
+
+Creating interfaces that work smoothly across different screen sizes and devices.
+
+</td>
+
+<td align="center" width="220">
+
+### 🚀 Web Development
+
+Combining everything I learn to build practical, real-world projects.
+
+</td>
+
+</tr>
+
 </table>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts" alt="Currently Learning React Next.js TypeScript"/>
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs"
+  alt="Currently Learning Technologies"
+/>
 
 <br><br>
 
-**Learning → Practicing → Building → Improving**
+### Learn → Practice → Build → Improve
 
 </div>
 
