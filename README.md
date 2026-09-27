@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/tasnuvafahmida/tasnuvafahmida/main/assets/banner.png"
+  src="https://raw.githubusercontent.com/mdjawaduddin3-cloud/mdjawaduddin3-cloud/main/assets/banner.png"
   width="100%"
   alt="Tasnuva Fahmida - Full-Stack Web Developer"
 />
