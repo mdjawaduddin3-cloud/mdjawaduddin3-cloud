@@ -297,6 +297,52 @@ I don't just want to write code.
 
 ---
 
+# 📚 Currently Learning
+
+<div align="center">
+
+### 🔄 Expanding My Skills
+
+<table>
+<tr>
+<td align="center" width="250">
+
+### ⚛️ React
+
+Deepening my understanding of components, hooks, state management, and reusable UI patterns.
+
+</td>
+
+<td align="center" width="250">
+
+### ▲ Next.js
+
+Exploring modern routing, rendering, layouts, and building better web applications.
+
+</td>
+
+<td align="center" width="250">
+
+### 🔷 TypeScript
+
+Improving type safety, code structure, and writing more maintainable applications.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts" alt="Currently Learning React Next.js TypeScript"/>
+
+<br><br>
+
+**Learning → Practicing → Building → Improving**
+
+</div>
+
+---
+
 # 📫 Let's Connect
 
 <div align="center">
